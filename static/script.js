@@ -89,6 +89,7 @@ function getCityBtnEventListener() {
                 revealCity(data)
             } else {
                 alert("Try again!");
+                guessInput.value = "";
             }
         })
         const rows = 5;
