@@ -1,0 +1,1 @@
+This frontend application allows end-users to play a guessing game as a usecase for the City API where users slowly reveal the image of a city and must guess. A correct guess reveals info about the city. To be used alongside with https://github.com/D-Hankin/apigruppfem (api) and https://github.com/D-Hankin/apigruppfemFrontEnd (dev page). 
